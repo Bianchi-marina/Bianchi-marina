@@ -13,7 +13,6 @@ Sou uma desenvolvedora Fullstack apaixonada por criar soluções que impactam po
 - **Banco de Dados**: PostgreSQL, MongoDB
 - **Ferramentas e Tecnologias**: Git
 
-![Tools](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ## 🌱 Projetos
 
@@ -23,7 +22,6 @@ Durante meu aprendizado na TripleTen, programei alguns projetos e participei de 
 - **[GlascBet](https://github.com/QuimTec/glascbet__hackathon_3)**: Um site de apostas em partidas do jogo LeagueOfLegends.
 - **[VemVai](https://github.com/Lucrixo/build)**: Uma rede social focada em produtos sustentáveis.
 
-![Environment](https://media.giphy.com/media/26uf9QPzzlKPvQG7q/giphy.gif)
 
 ## 🌊 Curiosidades
 
@@ -31,7 +29,6 @@ Durante meu aprendizado na TripleTen, programei alguns projetos e participei de 
 - Sou uma defensora ativa das iniciativas de conservação marinha.
 - Amo aprender sobre novas tecnologias e como elas podem ser usadas para o bem-estar do planeta.
 
-![Surfing](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ## 📫 Como me encontrar
 
