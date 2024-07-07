@@ -1,8 +1,6 @@
 # Olá, me chamo Marina! 🌊
 
-## Sobre mim
-
-Sou uma desenvolvedora Fullstack apaixonada por criar soluções que impactam positivamente o meio ambiente. Além de programar, adoro surfar e sou uma grande entusiasta da preservação dos oceanos. Acredito que a tecnologia pode ser uma poderosa aliada na proteção do nosso planeta.
+Sou uma desenvolvedora Fullstack e Designer, apaixonada por criar soluções que impactam positivamente o meio ambiente. Além de programar, adoro surfar e sou uma grande entusiasta da preservação dos oceanos. Acredito que a tecnologia pode ser uma poderosa aliada na proteção do nosso planeta.
 
 ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
