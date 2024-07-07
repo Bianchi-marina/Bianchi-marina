@@ -1,49 +1,44 @@
-<h2 align="left">Hi 👋! My name is Marina and I'm FullStack Dev, from Brazil</h2>
+# Olá, me chamo Marina! 🌊
 
-###
+## Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Sou uma desenvolvedora Fullstack apaixonada por criar soluções que impactam positivamente o meio ambiente. Além de programar, adoro surfar e sou uma grande entusiasta da preservação dos oceanos. Acredito que a tecnologia pode ser uma poderosa aliada na proteção do nosso planeta.
 
-###
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 Minhas Habilidades
 
-###
+- **Front-end**: HTML, CSS, JavaScript, React
+- **Back-end**: Node.js, Express
+- **Banco de Dados**: PostgreSQL, MongoDB
+- **Ferramentas e Tecnologias**: Git
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+![Tools](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
-###
+## 🌱 Projetos
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+Durante meu aprendizado na TripleTen, programei alguns projetos e participei de Hackathons dentro da escola. Aqui estão alguns dos meus projetos favoritos:
 
-###
+- **[Projeto Rede Social](https://github.com/Bianchi-marina/web_project_api_full)**: Rede Social do curso.
+- **[GlascBet](https://github.com/QuimTec/glascbet__hackathon_3)**: Um site de apostas em partidas do jogo LeagueOfLegends.
+- **[VemVai](https://github.com/Lucrixo/build)**: Uma rede social focada em produtos sustentáveis.
 
-<br clear="both">
+![Environment](https://media.giphy.com/media/26uf9QPzzlKPvQG7q/giphy.gif)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🌊 Curiosidades
 
-###
+- Quando não estou surfando nas ondas dos códigos ou design, gosto de surfar as ondas da minha praia favorita.
+- Sou uma defensora ativa das iniciativas de conservação marinha.
+- Amo aprender sobre novas tecnologias e como elas podem ser usadas para o bem-estar do planeta.
+
+![Surfing](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+## 📫 Como me encontrar
+
+- **LinkedIn**: [Marina no LinkedIn](https://www.linkedin.com/in/marina-borges-bianchi-44084422a/)
+- **E-mail**: mahbianchi8@gmail.com
+---
+
+Vamos juntos criar um futuro mais sustentável através da tecnologia! 🚀
+
+![Future](https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif)
